@@ -1,0 +1,16 @@
+﻿生成启动时间为 2021/11/3 21:43:18。
+     1>项目“E:\比特程序练习\数据结构初阶代码\text-11-2（ercahshuTEXT）\text-11-2（ercahshuTEXT）\text-11-2（ercahshuTEXT）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\应用程序\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt heap.c test.c
+         test.c
+         heap.c
+         正在生成代码...
+       Link:
+         E:\应用程序\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\比特程序练习\数据结构初阶代码\text-11-2（ercahshuTEXT）\Debug\text-11-2（ercahshuTEXT）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\比特程序练习\数据结构初阶代码\text-11-2（ercahshuTEXT）\Debug\text-11-2（ercahshuTEXT）.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\比特程序练习\数据结构初阶代码\text-11-2（ercahshuTEXT）\Debug\text-11-2（ercahshuTEXT）.lib" /MACHINE:X86 Debug\heap.obj
+         Debug\test.obj
+         text-11-2（ercahshuTEXT）.vcxproj -> E:\比特程序练习\数据结构初阶代码\text-11-2（ercahshuTEXT）\Debug\text-11-2（ercahshuTEXT）.exe
+     1>已完成生成项目“E:\比特程序练习\数据结构初阶代码\text-11-2（ercahshuTEXT）\text-11-2（ercahshuTEXT）\text-11-2（ercahshuTEXT）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.67
