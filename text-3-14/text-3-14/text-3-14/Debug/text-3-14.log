@@ -1,0 +1,13 @@
+﻿生成启动时间为 2022/3/14 22:03:54。
+     1>项目“H:\比特程序练习\C++初阶代码\text-3-14\text-3-14\text-3-14\text-3-14.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\应用程序\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>h:\比特程序练习\c++初阶代码\text-3-14\text-3-14\text-3-14\test.cpp(438): error C2248: “A::B::_b”: 无法访问 private 成员(在“A::B”类中声明)
+                 h:\比特程序练习\c++初阶代码\text-3-14\text-3-14\text-3-14\test.cpp(432) : 参见“A::B::_b”的声明
+                 h:\比特程序练习\c++初阶代码\text-3-14\text-3-14\text-3-14\test.cpp(422) : 参见“A::B”的声明
+     1>已完成生成项目“H:\比特程序练习\C++初阶代码\text-3-14\text-3-14\text-3-14\text-3-14.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.39
